@@ -47,9 +47,9 @@ android {
 dependencies {
 
     // ... Core
-    api("androidx.core:core-ktx:1.13.0")
+    api("androidx.core:core-ktx:1.13.1")
     api("androidx.appcompat:appcompat:1.6.1")
-    api("com.google.android.material:material:1.11.0")
+    api("com.google.android.material:material:1.12.0")
 
     // ... Jetpack Compose
     api("androidx.compose.ui:ui:$compose_version")
